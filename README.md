@@ -4,7 +4,7 @@ It has many features such as  appointments booking , appointments cancelation, p
 In admin side you can upload images, and orginize calendar.
 
 ## Demo
-The live demo of this app is deployed and can be found [here] (https://mybarbershop13.netlify.app)
+The live demo of this app is deployed and can be found [here](https://mybarbershop13.netlify.app)
 
 You can use the following credentials with live demo:
 
